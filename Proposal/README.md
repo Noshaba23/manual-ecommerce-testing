@@ -2,13 +2,13 @@
 
 **Project Title**
 
-***Manual Test Plan & Bug Report Suite for an E-commerce Store**
+**Manual Test Plan & Bug Report Suite for an E-commerce Store**
 
 **Introduction**
 
 This project focuses on performing manual functional testing of an e-commerce website. The purpose is to verify that important features of the website work correctly and to identify and document any defects found during testing.
 
-Problem Statement
+**Problem Statement**
 
 E-commerce websites contain several important functions such as product browsing, cart management, and checkout. Functional issues in these areas can affect the user experience. Therefore, systematic manual testing is required to identify such issues before the product is considered reliable.
 
@@ -54,7 +54,7 @@ Manual functional testing will be performed by executing predefined test cases. 
 - Testing Screenshots
 - Project Documentation
 
-****Expected Outcome**
+**Expected Outcome**
 
 The project will provide a structured manual testing suite for the e-commerce website and will identify functional issues that may affect users. The testing results and documented defects will help improve the quality and reliability of the website.
 
